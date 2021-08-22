@@ -3,7 +3,7 @@
 ## I'm Leduong
 ## Frontend Developer 👨‍💻
 
-```
+
 <h2 align="center">You can reach me at :alien:</h2>
 <p align="center">
   <a href="https://dev.to/anhello">
@@ -38,7 +38,7 @@
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
 </p>
-```
+
 
 [![](https://img.shields.io/badge/LinkedIn-leduong-blue)](https://www.linkedin.com/in/duong-le-227122209/)
 [![](https://img.shields.io/badge/Gmail-leduong290300gmail.com-red)](mailto:leduong290300@gmail.com)
