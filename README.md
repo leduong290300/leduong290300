@@ -13,22 +13,12 @@
 ```javascript
 const person = {
     pronouns: "He" | "Him",
-    askMeAbout: ["Web dev"],
-    technologies:{
-        backEnd: 
-        {
-        JS:["NodeJS","Express"],
-        PHP:["Laravel"]
-        },
-        fronEnd: 
-        {
-          JS:["ReactJS"],
-          CSS:["React-bootstrap","Bootstrap","SCSS"]
-        },
-        database: ["mongo","mySql"],
-        misc: ["Firebase"]
-    },
-}
+    askMeAbout: ["Fresher Frontend Developer"],
+    technologies: {
+       "frontEnd" : "HTML,CSS,JAVASCRIPT,REACTJS",
+       "backEnd" : "PHP,LARAVEL",
+       "database" : "MySQL"
+    }
 ```
 
 <h4 align="center">Top langs :tongue:</h4>
