@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## I'm Leduong
-## Frontend Developer 👨‍💻
+## Fresher Frontend Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-leduong-blue)](https://www.linkedin.com/in/duong-le-227122209/)
 [![](https://img.shields.io/badge/Gmail-leduong290300gmail.com-red)](mailto:leduong290300@gmail.com)
